@@ -1,0 +1,6 @@
+argumentA,argumentB,expectedResult
+50       ,7        ,43
+34       ,4        ,30
+52       ,12       ,40
+12       ,12       ,0
+0        ,9        ,-9
